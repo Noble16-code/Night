@@ -7,10 +7,6 @@ const RECIPIENT_EMAIL = "oladotunadigun07@gmail.com";
 const DATE_NIGHT = "2026-05-24T20:00:00-03:00";
 
 const EVENT_OPTIONS = [
-    {
-    title: "Online escape room",
-    tag: "Escape",
-  },
   {
     title: "Kahoot quizzes",
     tag: "We both take turns picking topics",
@@ -25,11 +21,16 @@ const EVENT_OPTIONS = [
   },
   {
     title: "True crime YouTube watch",
-    tag: "Watch an episode of true crime",
+    tag: "Watch an episode of true crime(trying something you like to do",
   },
   {
     title: "Budget outfit build",
     tag: "We build each other an outfit with a budget",
+  },
+
+    {
+    title: "Obsessed",
+    tag: "Movie Time",
   },
 ];
 
